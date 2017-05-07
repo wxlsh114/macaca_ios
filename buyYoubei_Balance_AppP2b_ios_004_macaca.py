@@ -10,7 +10,7 @@ desired_caps = {
         'platformName': 'iOS',
         'platformVersion': '10.3',
         'deviceName': 'iPhone 6',
-        'app': os.path.abspath('/Users/samwang/Desktop/macaca_ios/PJS.app'),
+        'app': os.path.abspath('/Users/samwang/Desktop/macaca_ios_X/PJS.app'),
 }
 
 server_url = {
